@@ -78,7 +78,7 @@ Incidents peak between **12 PM – 2 PM** and decrease after midnight.
 
 ### 3️. Category Group by Season
 ![Category by Season](charts/category_by_season.png)  
-Winter shows the highest number of life-threatening cases across all categories.
+Summer shows the highest number of life-threatening cases across all categories.
 
 ---
 
@@ -153,7 +153,7 @@ The Power BI dashboard complements the Python analysis and includes:
    - **Fire-related incidents** account for a smaller portion (~2%), but often correlate with peak summer months.  
 
 6. **Category Group vs. Season Insights**  
-   - Life-Threatening and Urgent incidents surge in **Winter and Autumn**,  
+   - Life-Threatening and Urgent incidents surge in **Summer and Spring**,  
      whereas **Hazard** incidents are slightly higher during **Summer**, likely due to heat-related or wildfire conditions.  
 
 7. **Agency and Operational Findings**  
@@ -174,7 +174,7 @@ The Power BI dashboard complements the Python analysis and includes:
 
 3. **Seasonal Resource Planning**  
    - Boost **hazard-response units** in Summer (wildfires, environmental risks).  
-   - Reinforce **medical & life-threatening response units** during Winter peaks.  
+   - Reinforce **medical & life-threatening response units** during Summer peaks.  
 
 4. **Policy & Data Recommendations**  
    - Investigate the **2025 drop** in incident count — confirm if it’s due to reporting gaps or improved prevention programs.  
