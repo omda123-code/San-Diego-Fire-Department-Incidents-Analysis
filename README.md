@@ -102,7 +102,7 @@ ZIP **92101** is the most affected area, with nearly 160K incidents.
 
 ### 7️. Seasonal Comparison by Year
 ![Seasonal Comparison](charts/seasonal_comparison_by_year.png)  
-Seasonal variations show strong winter peaks and lower summer activity.
+Seasonal variations show strong summer peaks and lower winter activity.
 
 ---
 
@@ -141,7 +141,7 @@ The Power BI dashboard complements the Python analysis and includes:
    - **Weekday trends:** Slightly higher activity on **Fridays and Thursdays**, possibly due to increased human mobility and events.  
 
 3. **Seasonal & Yearly Trends**  
-   - **Winter** recorded the highest overall incidents, followed by **Summer**.  
+   - **Summer** recorded the highest overall incidents, followed by **Spring**.  
    - From **2020 → 2024**, a steady rise was observed in incident counts (~+13%), but **2025** shows a **notable drop (~15%)**, suggesting potential operational changes or incomplete data coverage.  
 
 4. **Geographical Distribution (ZIP Analysis)**  
