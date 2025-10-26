@@ -55,8 +55,8 @@ It aims to reveal key insights about response types, temporal patterns, and affe
 | **Urgent Response** | ~90,000 |
 | **Hazard** | ~60,000 |
 | **Peak ZIP Code** | 92101 (≈159,000 incidents) |
-| **Peak Season** | Winter (≈150,000 Life-Threatening) |
-| **Busiest Hour** | 13:00 (≈60,000 incidents) |
+| **Peak Season** | Summer (≈150,000 Life-Threatening) |
+| **Busiest Hour** | 14:00 (≈60,000 incidents) |
 | **Lowest Hour** | 4:00 (≈38,000 incidents) |
 
 ---
